@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HTML script to demonstrate HTML DescriptionLists.</title>
+<head>
+<body>
+<dl>
+   <dt>anchal dubey<dt>
+   <dd>anchal is from uttar prdesh<dd>
+   <dt>shreya dubey<dt>
+   <dd>shreya is from mumbai<dd>
+   <dt>anupam dubey<dt>
+   <dd> anupam is from mumbai<dd>

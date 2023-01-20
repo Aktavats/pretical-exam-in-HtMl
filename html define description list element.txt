@@ -1,0 +1,6 @@
+Define HTML Description Lists. 
+HTml description lists are used to glossary or to display metadeta
+html description list element
+<dl> defines a description lidt
+<dt> defines a Description  term
+<dd> defines a description deatails
